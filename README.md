@@ -5,9 +5,6 @@ Entry for Rajasthan Royals' SupeRR Selector Season 2, Round 1: the most reliable
 - `index.html` is the full dashboard. It is one self-contained file: the data, styles and scripts are inside it, and it needs no build step. The only outside request is Google Fonts.
 - `backup/index.html` is the earlier single-page version of the same analysis.
 
-## Hosting
-
-Any static host works. On Vercel: import this repository, keep the framework preset on "Other", leave the build command empty and deploy. The dashboard is served at the site root and the backup at `/backup/`.
 
 ## What is inside
 
